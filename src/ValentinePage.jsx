@@ -17,7 +17,7 @@ const ValentinePage = () => {
         return (
             <div style={styles.container}>
                 <img src={happycat} alt="cat" height="200px" />
-                <h1 style={styles.title}>Yay! ❤️ See you then!</h1>
+                <h1 style={styles.title}>❤️</h1>
                 <div style={styles.heartContainer}>💖✨🌹</div>
             </div>
         );
@@ -26,7 +26,7 @@ const ValentinePage = () => {
     return (
         <div style={styles.container}>
             <img src={catImage} alt="cat" height="200px" />
-            <h1 style={styles.title}>Will you be my Valentine?</h1>
+            <h1 style={styles.title}>HAPPY BIRTHDAY NWE NI WIN</h1>
 
             <div style={styles.buttonWrapper}>
                 <button
